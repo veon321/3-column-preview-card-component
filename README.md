@@ -17,8 +17,6 @@ The challenge was to build a 3-column preview card component and get it looking 
 - CSS Custom Properties (Variables) for a clean, theme-ready color palette
 - Flexbox layout for structural alignment and layout axis swapping
 - Modern CSS Math Functions (`clamp()`) for fluid typography and responsive scaling without rigid text jumps
-- Smooth CSS Transitions (`transition: all 0.2s ease`) for interactive element states
-- Mobile-first adaptive design transitioning at a 768px breakpoint into a stacked multi-row layout
 - Google Fonts (Lexend Deca & Big Shoulders Display)
 
 ## Features
